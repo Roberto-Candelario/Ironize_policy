@@ -1,0 +1,52 @@
+Ironize Privacy Policy
+Effective Date: 02/12/25
+
+1. Information We Do Not Collect
+Ironize does not collect any of the following personal information:
+- Name or username
+- Email address
+- Location data
+- Health data (as defined by Apple HealthKit)
+- Device or usage data
+- Photos or media files unless explicitly added by you (see below)
+
+2. Information You Provide Locally
+Users may optionally take and attach a photo of a workout machine when creating a custom exercise. These photos:
+- Are stored locally on your device and optionally in iCloud if enabled
+- Are not transmitted to any external server
+- Are not visible to the app developer
+
+3. Data Storage
+All workout logs and custom exercises are stored:
+- Locally on the user's device
+- Optionally backed up through Apple iCloud (if enabled by the user)
+
+Ironize does not transmit this data to any third-party server, nor is it accessible by the developer unless Apple provides anonymous usage statistics through standard developer tools.
+
+4. Data Sharing & Sales
+We do not:
+- Sell any user data
+- Share user data with third parties
+- Use third-party analytics or advertising SDKs at this time
+
+In the future, anonymous app usage data may be used to improve the app or personalize features using AI-but only in a way that respects your privacy.
+
+5. Security
+Ironize relies on Apple's default security protocols and iCloud encryption for data protection. No additional encryption methods are implemented by the app itself.
+
+6. User Controls
+- You may manually delete individual workout entries, photos, or exercises from within the app.
+- There is currently no 'Delete All' feature. Data must be removed one entry at a time.
+- There is no account or contact method provided for data access or export.
+
+7. Children's Privacy
+Ironize is available for users aged 4 and older. No personal information is knowingly collected from children under 13, and no account registration is required.
+
+8. Changes to This Privacy Policy
+This policy may be updated to reflect future app features or privacy practices. When changes occur, users will be informed via:
+- An in-app notice or
+- A message in the App Store update notes
+
+9. Contact
+If you have any concerns about privacy, we recommend disabling iCloud backups for Ironize via your device settings.
+
